@@ -1,3 +1,6 @@
+
+### RANSAC -- IMAGE STITCHING -- PROF SHREE NAYAR -- https://www.youtube.com/watch?v=EkYXjmiolBg&list=PL2zRqk16wsdp8KbDfHKvPYNGF2L-zQASc&index=5
+
 <!-- ABOUT THE PROJECT -->
 ## Consensus Adaptive RANSAC
 
